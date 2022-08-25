@@ -1,4 +1,4 @@
-# Cardiovascular_Risk_Prediction_Mrugesh_Patel
+# Cardiovascular_Risk_Prediction
 
 As heart related problems are very common for many people, especially after age 30, it can be
 very helpful if we can predict such problems that might occur in future and in order to prevent it
